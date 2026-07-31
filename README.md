@@ -7,6 +7,7 @@ A curated collection of **free online construction calculators** for contractors
 | Calculator | Trade | Link |
 |-----------|-------|------|
 | Concrete Calculator | General | [Use Free →](https://builtrighthq.com/tools/concrete-calculator/) |
+| Concrete Estimator Hub | Concrete | [Use Free →](https://concreteestimatorhub.com/) |
 | Paint Calculator | Painting | [Use Free →](https://builtrighthq.com/tools/paint-calculator/) |
 | Roof Pitch Calculator | Roofing | [Use Free →](https://builtrighthq.com/tools/roof-pitch-calculator/) |
 | Drywall Calculator | Drywall | [Use Free →](https://builtrighthq.com/tools/drywall-calculator/) |
