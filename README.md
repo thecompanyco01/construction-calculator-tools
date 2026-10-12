@@ -18,6 +18,7 @@ A curated collection of **free online construction calculators** for contractors
 | Deck Calculator | Carpentry | [Use Free →](https://builtrighthq.com/tools/deck-calculator/) |
 | Wire Size Calculator | Electrical | [Use Free →](https://builtrighthq.com/tools/wire-size-calculator/) |
 | CFM Calculator | HVAC | [Use Free →](https://builtrighthq.com/tools/cfm-calculator/) |
+| SiteCals | All Trades | [Use Free →](https://sitecals.com) |
 | Paver Calculator | Landscaping | [Use Free →](https://builtrighthq.com/tools/paver-calculator/) |
 | Gravel Calculator | Landscaping | [Use Free →](https://builtrighthq.com/tools/gravel-calculator/) |
 | Rebar Calculator | Concrete | [Use Free →](https://builtrighthq.com/tools/rebar-calculator/) |
